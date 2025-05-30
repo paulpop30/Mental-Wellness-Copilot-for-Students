@@ -7,7 +7,7 @@ To run this project, open the .ipynb file using Jupyter Notebook. The notebook c
 Team: The AI Psychologists
 We were a team of 4 dedicated members collaborating on this project:
 
-@githubUser1
+@paulpop30
 
 @githubUser2
 
