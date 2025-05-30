@@ -4,8 +4,7 @@ A private, RAG-based assistant trained on evidence-based mental health resources
 # How to Run
 To run this project, open the .ipynb file in Jupyter Notebook and execute the code cells sequentially to maintain the proper flow of data and computations. Prior to running the notebook, clone this repository to your local machine and ensure all required dependencies are installed.
 
-Team: The AI Psychologists
-We were a team of 4 dedicated members collaborating on this project:
+Team: The AI Psychologists -> We were a team of 4 dedicated members collaborating on this project:
 
 @paulpop30
 
