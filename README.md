@@ -2,7 +2,7 @@
 A private, RAG-based assistant trained on evidence-based mental health resources. Students can ask personal, emotional, or psychological questions — and get grounded, safe responses based on legit,  curated mental health materials.
 
 # How to Run
-To run this project, open the .ipynb file using Jupyter Notebook. The notebook consists of sequential code cells that should be executed in order to ensure the correct flow of data and computations. Before running the notebook, clone this repository to your local machine and make sure all required libraries are installed—either via the provided requirements.txt file or by manually installing the necessary packages.
+To run this project, open the .ipynb file in Jupyter Notebook and execute the code cells sequentially to maintain the proper flow of data and computations. Prior to running the notebook, clone this repository to your local machine and ensure all required dependencies are installed.
 
 Team: The AI Psychologists
 We were a team of 4 dedicated members collaborating on this project:
