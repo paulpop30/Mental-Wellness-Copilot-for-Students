@@ -9,10 +9,10 @@ We were a team of 4 dedicated members collaborating on this project:
 
 @paulpop30
 
-@githubUser2
+@DragosTrandafir
 
-@githubUser3
+@noobprogrammerv
 
-@githubUser4
+@SilaghiRaulEmanuel
 
 ![77777777777](https://github.com/user-attachments/assets/f0c1dc4e-6e31-40b9-873f-82e97015e6d0)
